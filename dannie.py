@@ -1,5 +1,5 @@
 import json
-
+#Константа - Constant
 db = {
     '05.2021': {'total': 84946,
                 'avans_h': 39630,
